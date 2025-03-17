@@ -4,6 +4,11 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.strike.sub-strike {
+    font-size: 15px;
+    font-style: italic;
+}
+
 #title {
     font-size: 42px;
     font-weight: bolder;
