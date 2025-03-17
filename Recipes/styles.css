@@ -1,0 +1,44 @@
+.strike {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    font-size: 42px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    width: 50%;
+    height: auto;
+}
+
+.caption {
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#phrase {
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+#home {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+
+.lists {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
